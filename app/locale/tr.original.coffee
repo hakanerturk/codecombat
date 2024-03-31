@@ -1,7 +1,7 @@
 module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", translation:
 
 #  ozaria_home:
-#    subtitle: "Computer Science that Captivates"
+#    subtitle: "Büyüleyici Bilgisayar Bilimi"
 #    heading_subtitle: "A coding adventure for students and your turnkey solution for teaching Computer Science."
 #    item_list_p: "Try Chapter 1 for Free Today!"
 #    engaging_heading_corner: "A solution to Engage Students and Support Teachers"
@@ -1349,15 +1349,15 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
 #    tornado_description: "It is good to have a reset button when one's cover is blown."
 #    wallOfDarkness_name: "Wall of Darkness"
 #    wallOfDarkness_description: "Hide behind a wall of shadows to prevent the gaze of prying eyes."
-#    notifications: "Notifications"
-#    x_announcement: "__x__ Notification"
-#    x_announcements: "__x__ Notifications"
-#    x_announcement_with_unread: "__x__ Notification (__y__ unread)"
-#    x_announcements_with_unread: "__x__ Notifications (__y__ unread)"
+#    notifications: "Bildirimler"
+#    x_announcement: "__x__ Bildirim"
+#    x_announcements: "__x__ Bildirimler"
+#    x_announcement_with_unread: "__x__ Bildirim (__y__ unread)"
+#    x_announcements_with_unread: "__x__ Bildirimler (__y__ unread)"
 #    see_more: "See __unread__ more unread Notifications"
 #    mark_read: "Mark Read"
-#    read_all: "Read All"
-#    more_announcements: "more notifications..."
+#    read_all: "Hepsini Oku"
+#    more_announcements: "daha fazla bildirim..."
 
 #  avatar_selection:
 #    pick_an_avatar: "Pick an avatar that will represent you as a player"
